@@ -41,3 +41,8 @@ $ git push : To push changes from git local repository to git central repository
 		Syntax  : $ git push
 
 $ git rm : To remove file(s) from repository
+
+
+hhfgyueg hiydygfew7r 
+aiuerhewr hayugr7r
+weurhuyerue
